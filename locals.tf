@@ -1,0 +1,1 @@
+## If there is a naming convention for node pools, construct the name here and refer to it in kubernetes-cluster-node-pool.tf file.
